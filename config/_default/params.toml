@@ -14,7 +14,7 @@ layout = "basic"
 
 [footer]
 showMenu = true
-showCopyright = true
+showCopyright = false
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
@@ -22,15 +22,15 @@ showScrollToTop = true
 [homepage]
 layout = "card"
 showRecent = true
-showRecentItems = 10
+showRecentItems = 20
 showMoreLink = false
 showMoreLinkDest = "/projects/"
-cardView = false
-cardViewScreenWidth = false
+cardView = true
+cardViewScreenWidth = true
 layoutBackgroundBlur = false
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
@@ -47,11 +47,11 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showZenMode = false
 
 [list]
@@ -66,7 +66,7 @@ showTableOfContents = false
 showCards = false
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 

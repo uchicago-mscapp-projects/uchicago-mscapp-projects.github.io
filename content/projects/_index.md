@@ -4,12 +4,7 @@ description: "Project Gallery"
 
 cascade:
   showDate: false
-  showAuthor: yes
+  showAuthor: true
   invertPagination: true
 ---
 
-{{< lead >}}
-Simple, yet powerful. Learn how to use Blowfish and its features.
-{{< /lead >}}
-
----

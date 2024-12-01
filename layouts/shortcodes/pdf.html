@@ -1,0 +1,9 @@
+<div class="pdf-container">
+  woo
+    <iframe 
+        src="/pdfjs/web/viewer.html?file={{ .Page.RelPermalink | relURL }}/{{ .Get "src" }}" 
+        width="{{ .Get "width" | default "100%" }}" 
+        height="{{ .Get "height" | default "600px" }}" 
+        style="border: none;">
+    </iframe>
+</div>
