@@ -6,4 +6,6 @@ authors: ["paul-soltys"]
 courses: ["30239"]
 ---
 
+{{< github repo="PJSuoc/quiet-conflicts" >}}
+
 {{< pdf src="global-conflict.pdf" >}}

@@ -6,4 +6,6 @@ authors: ["echo-nattinger"]
 courses: ["30239"]
 ---
 
+{{< github repo="enatt/static" >}}
+
 {{< pdf src="poster.pdf" >}}

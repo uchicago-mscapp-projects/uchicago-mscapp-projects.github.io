@@ -6,5 +6,7 @@ authors: ["michael-rosenbaum"]
 courses: ["30239"]
 ---
 
+{{< github repo="m-rosenbaum/CAPP-30239-Static" >}}
+
 <img src="c1_edit.svg" />
 <a href="./static_final.html">View Full Report</a>

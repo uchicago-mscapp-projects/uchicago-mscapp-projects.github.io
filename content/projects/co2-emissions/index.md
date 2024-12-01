@@ -6,4 +6,6 @@ authors: ["magdalena-barros"]
 courses: ["30239"]
 ---
 
+{{< github repo="mmbarros-git/StaticViz" >}}
+
 {{< pdf src="CO2_RE_infographic.pdf" >}}

@@ -6,6 +6,8 @@ authors: ["daniel-m-batista"]
 courses: ["30239"]
 ---
 
+{{< github repo="dmunozbatista/Poverty_Alimentary_Poverty_in_Mexico" >}}
+
 {{< pdf src="mexico-poverty.pdf" >}}
 
 

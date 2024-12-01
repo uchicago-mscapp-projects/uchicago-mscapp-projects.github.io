@@ -6,4 +6,6 @@ authors: ["ruben-gallardo-lopez"]
 courses: ["30239"]
 ---
 
+{{< github repo="rgallardo-chicago/static-viz-rgallardo" >}}
+
 {{< pdf src="final_gallardo.pdf" >}}

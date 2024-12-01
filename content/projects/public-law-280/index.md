@@ -6,4 +6,7 @@ authors: ["gabe-barrett"]
 courses: ["30239"]
 ---
 
+
+{{< github repo="Jibbie17/PL280ods" >}}
+
 {{< pdf src="AIAN_drd.pdf" >}}

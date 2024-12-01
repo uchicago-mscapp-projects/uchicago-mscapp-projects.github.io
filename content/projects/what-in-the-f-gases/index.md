@@ -6,4 +6,6 @@ authors: ["akshar-katariya"]
 courses: ["30239"]
 ---
 
+{{< github repo="aksharkatariya/static_project" >}}
+
 {{< pdf src="what-in-the-f-gases.pdf" >}}

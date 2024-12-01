@@ -6,4 +6,6 @@ authors: ["paula-cadena"]
 courses: ["30239"]
 ---
 
+{# github repo="paula-cadena/CAPP30239-SP" #}
+
 {{< pdf src="final.pdf" >}}

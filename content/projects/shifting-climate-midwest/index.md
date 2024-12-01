@@ -6,4 +6,6 @@ authors: ["jacob-trout"]
 courses: ["30239"]
 ---
 
+{{< github repo="jacobtrout/ag_data_viz" >}}
+
 {{< pdf src="shifting-climate.pdf" >}}

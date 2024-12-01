@@ -6,4 +6,6 @@ authors: ["andrew-baker"]
 courses: ["30239"]
 ---
 
+{{< github repo="ajbaker2/DataViz" >}}
+
 {{< pdf src="are-we-better.pdf" >}}

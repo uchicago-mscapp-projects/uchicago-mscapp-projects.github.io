@@ -6,4 +6,6 @@ authors: ["dorka-frisch"]
 courses: ["30239"]
 ---
 
+{{< github repo="dorottyaf/dataviz" >}}
+
 <img src="infographic.png">

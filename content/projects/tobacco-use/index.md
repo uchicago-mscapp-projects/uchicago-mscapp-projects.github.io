@@ -6,4 +6,6 @@ authors: ["yi-huai-chang"]
 courses: ["30239"]
 ---
 
+{{< github repo="yhchang717/FakeNews-Tracker" >}}
+
 {{< pdf src="final.pdf" >}}

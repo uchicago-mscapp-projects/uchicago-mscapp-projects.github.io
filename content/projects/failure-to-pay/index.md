@@ -6,4 +6,6 @@ authors: ["livia-mucciolo"]
 courses: ["30239"]
 ---
 
+{{< github repo="lmucciolo/static_data_viz" >}}
+
 {{< pdf src="failure-to-pay.pdf" >}}

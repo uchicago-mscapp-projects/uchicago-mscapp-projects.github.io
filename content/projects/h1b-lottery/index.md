@@ -6,4 +6,6 @@ authors: ["minh-nghiem"]
 courses: ["30239"]
 ---
 
+{{< github repo="mngh037/h1b-data-project" >}}
+
 <img src="h1b.png">

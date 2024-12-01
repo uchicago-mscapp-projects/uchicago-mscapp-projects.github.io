@@ -6,4 +6,6 @@ authors: ["miguel-perez-rodriguez"]
 courses: ["30239"]
 ---
 
+{{< github repo="miguelperez94/Visualization-Static-Project" >}}
+
 {{< pdf src="d2i_final_version.pdf" >}}
