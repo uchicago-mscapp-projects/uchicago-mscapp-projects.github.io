@@ -1,6 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["30239", "2024"]
+tags: ["2024"]
 title: "Carbon Heavyweights"
-author: "Suchi"
+authors: ["suchi-tailor"]
+courses: ["30239"]
 ---
+
+{{< pdf src="final_emissions_infographic.pdf" >}}

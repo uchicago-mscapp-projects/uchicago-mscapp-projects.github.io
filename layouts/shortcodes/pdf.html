@@ -1,5 +1,9 @@
+<div class="pdf-download">
+  <a href="{{ .Page.RelPermalink | relURL }}/{{ .Get "src" }}">
+  View PDF
+  </a>
+</div>
 <div class="pdf-container">
-  woo
     <iframe 
         src="/pdfjs/web/viewer.html?file={{ .Page.RelPermalink | relURL }}/{{ .Get "src" }}" 
         width="{{ .Get "width" | default "100%" }}" 

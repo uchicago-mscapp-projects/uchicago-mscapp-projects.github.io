@@ -1,6 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["30239", "2024"]
-title: "Housing Instability"
-author: "Yi-Huai Chang"
+tags: ["2024"]
+title: "Tobacco Use Insights: Trends, Demographics, and Policy Impacts"
+authors: ["yi-huai-chang"]
+courses: ["30239"]
 ---
+
+{{< pdf src="final.pdf" >}}

@@ -1,6 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["30239", "2024"]
+tags: ["2024"]
 title: "Understanding Hate Crimes"
-author: "Echo"
+authors: ["echo-nattinger"]
+courses: ["30239"]
 ---
+
+{{< pdf src="poster.pdf" >}}

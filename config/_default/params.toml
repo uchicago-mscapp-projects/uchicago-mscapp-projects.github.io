@@ -1,4 +1,4 @@
-colorScheme = "terminal"
+colorScheme = "forest"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
@@ -10,7 +10,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-layout = "basic"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
@@ -26,14 +26,14 @@ showRecentItems = 20
 showMoreLink = false
 showMoreLinkDest = "/projects/"
 cardView = true
-cardViewScreenWidth = true
+cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
 showDate = false
 showViews = false
 showLikes = false
-showDateOnlyInArticle = false
+showDateOnlyInArticle = true
 showDateUpdated = false
 showAuthor = true
 showHero = false

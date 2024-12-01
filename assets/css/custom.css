@@ -2,5 +2,10 @@
   margin: 20px auto;
   max-width: 100%;
   overflow: hidden;
-  width: 100vh;
+  width: 300vh;
+}
+
+.pdf-download {
+  font-size: 110%;
+  padding-bottom: 1rem;
 }
