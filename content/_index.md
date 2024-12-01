@@ -7,4 +7,4 @@ MS-CAPP students.
 - [By Author](/authors/)
 - [By Course](/courses/)
 
-If you'd like to add or edit a project, please see [Contributing](contributing.md).
+If you'd like to add or edit a project, please see [Contributing](/contributing/).
