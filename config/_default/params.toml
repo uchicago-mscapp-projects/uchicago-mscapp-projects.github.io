@@ -20,11 +20,11 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
-showRecent = false
-showRecentItems = 5
+layout = "card"
+showRecent = true
+showRecentItems = 10
 showMoreLink = false
-showMoreLinkDest = "/posts/"
+showMoreLinkDest = "/projects/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
@@ -71,7 +71,7 @@ cardViewScreenWidth = false
 constrainItemsWidth = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
