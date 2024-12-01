@@ -1,0 +1,12 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "CAPP Project Gallery"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Projects built by students in the MS-CAPP (Computational Analysis & Public Policy) program at University of Chicago."
