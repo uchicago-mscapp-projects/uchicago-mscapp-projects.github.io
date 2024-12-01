@@ -1,5 +1,5 @@
 colorScheme = "forest"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
@@ -21,7 +21,8 @@ showScrollToTop = true
 
 [homepage]
 layout = "card"
-showRecent = true
+homepageImage = "/img/mosaic.jpg"
+showRecent = false
 showRecentItems = 20
 showMoreLink = false
 showMoreLinkDest = "/projects/"
@@ -45,7 +46,7 @@ showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = false
 showReadingTime = false
 showTableOfContents = false

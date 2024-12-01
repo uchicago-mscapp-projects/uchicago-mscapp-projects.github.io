@@ -4,7 +4,6 @@ description: "Project Gallery"
 
 cascade:
   showDate: false
-  showAuthor: true
-  invertPagination: true
+  showAuthorsBadges: true # needs to be here to have authors on cards
 ---
 
