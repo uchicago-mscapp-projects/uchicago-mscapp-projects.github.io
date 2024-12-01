@@ -2,7 +2,7 @@
 date: "2024-11-30"
 tags: ["2024"]
 title: "What in the F Gases"
-authors: ["aksharkatariya"]
+authors: ["akshar-katariya"]
 courses: ["30239"]
 ---
 
