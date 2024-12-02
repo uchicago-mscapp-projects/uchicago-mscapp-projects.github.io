@@ -3,62 +3,75 @@ title: "Contributing to this Site"
 date: "2024-11-30"
 ---
 
+## Contributions
+
 You are welcome to list any work done in a CAPP course by submitting a pull request to this repository on GitHub.
 
-## Steps
+{{<github repo="uchicago-mscapp-projects/uchicago-mscapp-projects.github.io" >}}
+
+## How to Contribute
 
 1) [Create a fork](https://github.com/uchicago-mscapp-projects/uchicago-mscapp-projects.github.io/fork) of the repository on GitHub.
 2) Check out your fork, and make any edits.
-2b) Optionally, run the project locally to verify your changes. (Instructions to come.)
+    - See [modifying content](#modifying-content) below to determine which files to change, you will be editing Markdown and some [TOML](https://toml.io/en/), which you'll find quite easy!
+    - Optionally, see [running locally](#running-locally) to verify your changes.
 3) [Submit a pull request](https://github.com/uchicago-mscapp-projects/uchicago-mscapp-projects.github.io/pulls) with your changes.
 4) Once your PR is merged, your changes will be live!
 
-## Content
+## Modifying Content
 
 Most of the time, editing or adding a page will involve creating a `.md` file in the appropriate place.
 
 These files consist of TOML metadata (the top section between `---` markers) and Markdown.
 
+The markdown beneath the TOML will appear on the page in question rendered as HTML.
+
+To include a GitHub repo link like the one on this page, use this special syntax
+
+```html
+{{</* github repo="username/reponame" */>}}
+```
+
 ### Project Page
 
 To edit the page `/projects/SLUG/`, modify the file `content/projects/SLUG`:
 
-**Metadata:**
-- title: display title of project
-- authors: list of authors, should correspond to /authors/USERNAME/
-- courses: list of course IDs, should correspond to /courses/CODE/
-- date: used for sorting
-- tags: arbitrary metadata
+**TOML Metadata:**
 
-**Markdown**:
+- `title`: display title of project
+- `authors`: list of authors, should correspond to /authors/USERNAME/
+- `courses`: list of course IDs, should correspond to /courses/CODE/
+- `date`: used for sorting
+- `tags`: arbitrary metadata
 
-Feel free to include a short description of the project.
-
-To include a GitHub Repo:
-
-```html
-{\{< github repo="username/reponame" >}}
-```
 
 ### Author Page
 
 To edit the page `/authors/USERNAME/`, modify the file `content/authors/USERNAME/_index.md`:
 
-- 'title': display name in author listings
-- Markdown beneath the header will be rendered on your author page.
+**TOML Metadata:**
 
-### Author Metadata
+- `title`: display name in author listings
 
-Metadata which appears on project pages.
+### Additional Author Metadata
 
-Modify the file `data/authors/USERNAME.json`:
+There is additional author metadata which appears on project pages.
 
-- name: Will appear on article pages.
-- linkedin: LinkedIn URL, remove entry from social to exclude
-- github: GitHub URL, remove entry from social to exclude
+To modify it edit the file `data/authors/USERNAME.json`:
+
+- `name`: Will appear on article pages.
+- `linkedin`: LinkedIn URL. Remove entry from `social` to exclude
+- `github`: GitHub URL. Remove entry from `social` to exclude
 
 ### Course Info
 
 To edit the page `/courses/CODE`, modify the file `content/courses/CODE/_index.md`:
 
-- title: Course Name
+- `title`: Course Name
+
+## Running locally
+
+1. You will need to download and install Hugo, the static site generator tool used to build this site. See <https://gohugo.io/installation/>
+2. Check out your fork of the repository using Git.
+3. Within the `uchicago-mscapp-projects.github.io` directory, run `git submodule update --init --recursive` to initialize the theme.
+4. `hugo serve` will start a server that will load the site on <http://localhost:1313>.
