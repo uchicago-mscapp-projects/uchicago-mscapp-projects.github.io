@@ -44,6 +44,11 @@ To edit the page `/projects/SLUG/`, modify the file `content/projects/SLUG`:
 - `date`: used for sorting
 - `tags`: arbitrary metadata
 
+### Project Image
+
+A file named `feature.png` or `feature.jpg` will be used as the "cover image."  Modify this as desired.
+
+Note: A helper script in `helpers/mosaic.py` generates the mosaic image on the front page.
 
 ### Author Page
 
