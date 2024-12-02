@@ -1,9 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["2024", "altair"]
+tags: ["altair"]
 title: "Are We Better Off?"
 authors: ["andrew-baker"]
-courses: ["30239"]
+courses: ["30239-A24"]
 ---
 
 {{< github repo="ajbaker2/DataViz" >}}

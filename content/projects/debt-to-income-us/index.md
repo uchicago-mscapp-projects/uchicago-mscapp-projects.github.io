@@ -1,9 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["2024"]
+tags: []
 title: "Analyzing the reduction of the debt-to-income ratio in the United States between 2007 and 2015 at the state and county level"
 authors: ["miguel-perez-rodriguez"]
-courses: ["30239"]
+courses: ["30239-A24"]
 ---
 
 {{< github repo="miguelperez94/Visualization-Static-Project" >}}

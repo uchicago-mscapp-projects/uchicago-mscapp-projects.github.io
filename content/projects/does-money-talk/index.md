@@ -1,9 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["2024"]
+tags: []
 title: "Does Money Talk?"
 authors: ["tori-beck"]
-courses: ["30239"]
+courses: ["30239-A24"]
 ---
 
 {{< github repo="beckvm/beck_capp_static_viz" >}}

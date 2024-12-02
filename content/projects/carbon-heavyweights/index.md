@@ -1,9 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["2024"]
+tags: []
 title: "Carbon Heavyweights"
 authors: ["suchi-tailor"]
-courses: ["30239"]
+courses: ["30239-A24"]
 ---
 
 {{< github repo="Suchitailor/fall-data-viz" >}}

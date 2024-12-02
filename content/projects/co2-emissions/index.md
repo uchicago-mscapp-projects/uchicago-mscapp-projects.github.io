@@ -1,9 +1,9 @@
 ---
 date: "2024-11-30"
-tags: ["2024"]
+tags: []
 title: "Global CO₂ Emissions and the shift towards Renewable Energy"
 authors: ["magdalena-barros"]
-courses: ["30239"]
+courses: ["30239-A24"]
 ---
 
 {{< github repo="mmbarros-git/StaticViz" >}}
