@@ -8,5 +8,5 @@ courses: ["30239"]
 
 {{< github repo="m-rosenbaum/CAPP-30239-Static" >}}
 
-<img src="/30239-2024/unemployment-insurance/c1_edit.svg" />
-<a href="/30239-2024/unemployment-insurance/">View Full Report</a>
+<img src="c1_edit.svg" />
+<a href="./static_final.html">View Full Report</a>
