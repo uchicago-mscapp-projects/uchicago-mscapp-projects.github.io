@@ -1,4 +1,4 @@
-colorScheme = "forest"
+colorScheme = "blowfish"                             # or forest?
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
