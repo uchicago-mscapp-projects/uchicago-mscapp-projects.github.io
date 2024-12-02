@@ -1,11 +1,26 @@
+#main-content > div {
+  padding-top: 1rem;
+}
 .pdf-container {
   margin: 20px auto;
-  max-width: 100%;
   overflow: hidden;
-  width: 300vh;
+  min-width: 80vw;
 }
-
 .pdf-download {
   font-size: 110%;
-  padding-bottom: 1rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+}
+.pdf-download span.block {
+  display: inline-block;
+}
+.pdf-download span.block svg {
+  display: inline-block;
+}
+.custom-icon {
+  height: 2rem;
+  display: inline;
+  padding: 0;
+  margin: 0;
 }

@@ -1,6 +1,6 @@
-<div class="pdf-download">
+<div class="pdf-download rounded-md px-1 py-[1px] dark:border-primary-600">
   <a href="{{ .Page.RelPermalink | relURL }}/{{ .Get "src" }}">
-  View PDF
+    <span>Download PDF</span> {{ partial "icon.html" "download" }}
   </a>
 </div>
 <div class="pdf-container">

@@ -7,11 +7,11 @@ You are welcome to list any work done in a CAPP course by submitting a pull requ
 
 ## Steps
 
-1) Create a fork of the repository on GitHub.
+1) [Create a fork](https://github.com/uchicago-mscapp-projects/uchicago-mscapp-projects.github.io/fork) of the repository on GitHub.
 2) Check out your fork, and make any edits.
-2b) Optionally, run the project locally to verify your changes.
-3) Submit a pull request with your changes.
-4) Once your PR is merged, your changes will be live.
+2b) Optionally, run the project locally to verify your changes. (Instructions to come.)
+3) [Submit a pull request](https://github.com/uchicago-mscapp-projects/uchicago-mscapp-projects.github.io/pulls) with your changes.
+4) Once your PR is merged, your changes will be live!
 
 ## Content
 
