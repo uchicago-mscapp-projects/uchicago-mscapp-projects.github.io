@@ -1,3 +1,11 @@
+@font-face {
+  font-family: font;
+  src: url("/fonts/jost.ttf");
+}
+html {
+  font-family: font;
+}
+
 #main-content > div {
   padding-top: 1rem;
 }
@@ -17,10 +25,4 @@
 }
 .pdf-download span.block svg {
   display: inline-block;
-}
-.custom-icon {
-  height: 2rem;
-  display: inline;
-  padding: 0;
-  margin: 0;
 }

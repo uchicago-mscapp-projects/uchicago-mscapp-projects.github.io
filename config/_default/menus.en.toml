@@ -16,14 +16,19 @@ pageRef = "projects"
 weight = 10
 
 [[main]]
+name = "By Author"
+pageRef = "authors"
+weight = 20
+
+[[main]]
 name = "By Course"
 pageRef = "courses"
 weight = 30
 
 [[main]]
-name = "By Author"
-pageRef = "authors"
-weight = 20
+name = "RSS"
+url = "/index.xml#feed"
+weight = 40
 
 #[[main]]
 #  name = "Parent"
