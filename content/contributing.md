@@ -1,11 +1,11 @@
 ---
-title: "Contributing to this Site"
+title: "Contributing to This Site"
 date: "2024-11-30"
 ---
 
 ## Contributions
 
-You are welcome to list any work done in a CAPP course by submitting a pull request to this repository on GitHub.
+You are welcome to list projects done in a CAPP course by submitting a pull request to this repository on GitHub.
 
 {{<github repo="uchicago-mscapp-projects/uchicago-mscapp-projects.github.io" >}}
 
