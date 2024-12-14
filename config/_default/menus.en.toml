@@ -26,6 +26,11 @@ pageRef = "courses"
 weight = 30
 
 [[main]]
+name = "By Tag"
+pageRef = "tags"
+weight = 35
+
+[[main]]
 name = "RSS"
 url = "/index.xml#feed"
 weight = 40
