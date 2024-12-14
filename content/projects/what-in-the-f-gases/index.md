@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "What in the F-Gases?"
 authors: ["akshar-katariya"]
 courses: ["30239-A24"]

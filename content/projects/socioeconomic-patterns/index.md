@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "Unveiling Global Trends: Socioeconomic Patterns Across Nations"
 authors: ["paula-cadena"]
 courses: ["30239-A24"]

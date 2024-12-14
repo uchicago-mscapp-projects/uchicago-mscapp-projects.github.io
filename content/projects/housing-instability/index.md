@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "Housing Instability"
 authors: ["amber-avila"]
 courses: ["30239-A24"]

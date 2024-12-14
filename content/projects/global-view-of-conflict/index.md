@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "A Global View of Conflict"
 authors: ["paul-soltys"]
 courses: ["30239-A24"]

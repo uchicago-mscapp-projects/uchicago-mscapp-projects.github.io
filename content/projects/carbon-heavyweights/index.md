@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "Carbon Heavyweights"
 authors: ["suchi-tailor"]
 courses: ["30239-A24"]

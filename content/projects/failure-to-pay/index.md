@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "Failure-to-Pay and Its Consequences"
 authors: ["livia-mucciolo"]
 courses: ["30239-A24"]

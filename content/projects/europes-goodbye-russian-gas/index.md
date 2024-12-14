@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "Europe's Goodbye to Russian Gas"
 authors: ["dorka-frisch"]
 courses: ["30239-A24"]

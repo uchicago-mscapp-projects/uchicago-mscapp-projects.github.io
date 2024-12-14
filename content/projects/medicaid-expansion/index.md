@@ -1,6 +1,6 @@
 ---
 date: "2024-11-30"
-tags: []
+tags: ["altair"]
 title: "Medicaid Expansion Effects"
 authors: ["david-steffen"]
 courses: ["30239-A24"]
