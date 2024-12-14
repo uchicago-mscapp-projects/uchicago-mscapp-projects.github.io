@@ -5,7 +5,11 @@ date: "2024-11-30"
 
 ## Contributions
 
-You are welcome to list projects done in a CAPP course by submitting a pull request to this repository on GitHub.
+This site is for showcasing *original* work done in CAPP or CAPP-adjacent courses.
+
+<em>In general, you may only post work that it is acceptable to post publicly on GitHub (i.e. original projects, not assigned coursework where everyone solves the same problem). Check with the instructor of the course if you are in doubt.</em>
+
+You can contribute by submitting a pull request to this repository on GitHub.
 
 {{<github repo="uchicago-mscapp-projects/uchicago-mscapp-projects.github.io" >}}
 
