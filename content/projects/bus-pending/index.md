@@ -8,4 +8,4 @@ courses: ["30122-W24"]
 
 {{< github repo="uchicago-mscapp-projects/bus_pending" >}}
 
-#![](/static/30122old/demo.gif)
+![](/30122old/demo.gif)
