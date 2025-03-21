@@ -4,7 +4,7 @@ tags: []
 title: "Understanding School Dropouts in Chicago: The Role of Crime and Socioeconomic Factors"
 authors: ['Angela López Sanchez', 'Cesar Núñez', 'Shahzaib Jamali']
 courses: ["30122-W25"]
-draft: true
+draft: false
 ---
 
 <!-- (TODO: can't open source yet, issue w/ quadtree) -->
