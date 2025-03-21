@@ -10,3 +10,4 @@ courses: ["30122-W25"]
 
 {{< youtube TODO >}}
 
+This project investigates maternal mortality across the United States, producing key insights of maternal mortality risk at an individual-level, and examining its correlation with state-specific characteristics.

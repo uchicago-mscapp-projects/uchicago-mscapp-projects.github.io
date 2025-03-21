@@ -10,3 +10,4 @@ courses: ["30122-W25"]
 
 {{< youtube QslegtG212E >}}
 
+This project aims to provide insights into traded products, their origins and destinations, as well as the concentration of production across industries.
