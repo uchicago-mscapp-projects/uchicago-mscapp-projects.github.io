@@ -8,7 +8,7 @@ courses: ["30122-W25"]
 
 {{< github repo="uchicago-2025-capp30122/30122-project-fantasticfour" >}}
 
-{{< youtube TODO >}}
+{{< youtube cRxmIfj6CVI >}}
 
 This project develops an interactive, map-based platform to help individuals—especially those considering a move to Chicago—assess potential housing options. By incorporating index data like housing price, education resources, transit infrastructure, safety, the platform offers a comprehensive overview of an area's livability.
 

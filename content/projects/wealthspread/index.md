@@ -8,4 +8,4 @@ courses: ["30122-W25"]
 
 {{< github repo="uchicago-2025-capp30122/30122-project-wealthspread" >}}
 
-{{< youtube TODO >}}
+{{< youtube nSnkMo_Mljs >}}

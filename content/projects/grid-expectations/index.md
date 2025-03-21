@@ -8,7 +8,7 @@ courses: ["30122-W25"]
 
 {{< github repo="uchicago-2025-capp30122/30122-project-flavortown" >}}
 
-{{< youtube TODO >}}
+{{< youtube F7yuNTVtSmc >}}
 
 This project aims to examine power outages and their association with energy generation sources in the United States. By analyzing the frequency and severity of power outages, we aim to explore patterns in grid reliability and generation mix across different regions and time periods
 
