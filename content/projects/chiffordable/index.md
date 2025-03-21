@@ -4,7 +4,6 @@ tags: []
 title: "CHIffordable"
 authors: ['Daniela Ayala', 'José Manuel Cardona', 'Agustín Eyzaguirre', 'María José Reyes']
 courses: ["30122-W25"]
-draft: true
 ---
 
 {{< github repo="uchicago-2025-capp30122/30122-project-chiffordable" >}}

@@ -7,7 +7,7 @@ courses: ["30122-W25"]
 draft: true
 ---
 
-<!-- (TODO: can't open source yet) -->
+<!-- (TODO: can't open source yet, issue w/ quadtree) -->
 {{< github repo="uchicago-2025-capp30122/30122-project-andes-indus-analytics" >}}
 
 {{< youtube aOXfe6JOBbc >}}

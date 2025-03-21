@@ -4,7 +4,6 @@ tags: []
 title: "Chicago Living Score Interactive Map"
 authors: ['Lydia Liu', 'Yuri Chang', 'Hamza Tariq', 'Alejandro Armas']
 courses: ["30122-W25"]
-draft: true
 ---
 
 {{< github repo="uchicago-2025-capp30122/30122-project-fantasticfour" >}}

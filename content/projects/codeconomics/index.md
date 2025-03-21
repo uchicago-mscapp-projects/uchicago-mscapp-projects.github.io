@@ -4,7 +4,6 @@ tags: []
 title: "Blown Away: The Rise and Fall of Businesses in the Windy City"
 authors: ['Hilman Hanivan', 'Jorge Guerrero']
 courses: ["30122-W25"]
-draft: true
 ---
 
 {{< github repo="uchicago-2025-capp30122/30122-project-codeconomics" >}}
