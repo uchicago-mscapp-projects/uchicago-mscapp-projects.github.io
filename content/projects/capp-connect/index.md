@@ -8,5 +8,4 @@ courses: ["30320-S25"]
 
 {{< github repo="uchicago-capp-30320/capp-connect" >}}
 
-{{< youtube  >}}
 
