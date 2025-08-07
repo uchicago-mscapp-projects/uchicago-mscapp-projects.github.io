@@ -1,0 +1,33 @@
+
+[[projects]]
+date = "2025-07-01"
+course = "30320-S25"
+slug = "billinois"
+name = "BILLinois"
+members = ["Echo Nattinger", "Livia Mucciolo", "Joaquin Pinto", "Caitlin Pratt", "David Steffen", "Suchi Tailor", "Karen Yi"]
+repo = "uchicago-capp-30320/BILLinois"
+#youtube = "aOXfe6JOBbc"
+
+[[projects]]
+date = "2025-07-01"
+course = "30320-S25"
+slug = "apt-plus"
+name = "Apartments Plus"
+members = ["Michael Rosenbaum", "Arkadeep Bandyopadhyay", "Miguel Perez", "Zewei (Whiskey) Liao", "Rodrigo Rivarola", "Magdalena Barros", "Fuyuki Tani", "Keling Yue"]
+repo = "uchicago-capp-30320/apt-plus"
+
+[[projects]]
+date = "2025-07-01"
+course = "30320-S25"
+slug = "commonthread"
+name = "CommonThread"
+members = ["Austin Steinhart", "Fatima Irfan", "Jacob Trout", "Onur Büyükkalkan", "Paul Soltys", "Praveen Chandar", "Regina I. Medina"]
+repo = "uchicago-capp-30320/CommonThread"
+
+[[projects]]
+date = "2025-07-01"
+course = "30320-S25"
+slug = "capp-connect"
+name = "CAPP Connect"
+members = ["Amber Avila", "Lee-Or Bentovim", "Paula Cadena", "Kiran Jivnani", "Gregory Mitchell", "Alison Spencer"]
+repo = "uchicago-capp-30320/capp-connect"
