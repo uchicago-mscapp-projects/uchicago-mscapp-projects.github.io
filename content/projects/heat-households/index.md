@@ -2,7 +2,7 @@
 date: "2025-11-15"
 tags: ["altair"]
 title: "Heat, Households, and Human Development"
-authors: ["Andres Camacho"]
+authors: ["Andrés Camacho"]
 courses: ["30239-A25"]
 ---
 
