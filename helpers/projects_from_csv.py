@@ -8,17 +8,16 @@ import csv
 import os
 
 
-def generate_markdown_files(csv_path, output_dir):
+def generate_markdown_files(csv_path):
     """
     Read a CSV file and generate Markdown files with a specific template.
 
     :param csv_path: Path to the input CSV file
     :param output_dir: Directory where Markdown files will be generated
     """
-    # Ensure the output directory exists
+    output_dir = "content/projects/"
     os.makedirs(output_dir, exist_ok=True)
 
-    # Read the CSV file
     with open(csv_path, "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
 
@@ -31,19 +30,25 @@ def generate_markdown_files(csv_path, output_dir):
 
             # Prepare the Markdown content
             markdown_content = f"""---
-date: "{row.get('date', '2024-12-14')}"
-tags: ["{row.get('tags', 'd3')}"]
+date: "{row['date']}"
+tags: ["altair"]
 title: "{row['title']}"
-authors: ["{row.get('author', '')}"]
-courses: ["30239-A24"]
+authors: ["{row['author']}"]
+courses: ["30239-A25"]
 ---
-
-{{{{< github repo="{row.get('github', '')}" >}}}}
 
 <a class="main link" href="{row['url']}">
 <img src="feature.png" />
-{row['url']}
 </a>
+
+<div class="pdf-download rounded-md px-1 py-[1px] dark:border-primary-600">
+    <a href="{row['url']}">
+    <span>Download PDF</span>
+    </a>
+</div>
+
+{{{{< github repo="{row.get('github').replace('https://github.com/', '')}" >}}}}
+
 
 """
 
@@ -56,10 +61,8 @@ courses: ["30239-A24"]
 
 
 def main():
-    # Example usage
-    csv_path = "input.csv"  # Replace with your CSV file path
-    output_dir = "projects"  # Replace with your desired output directory
-    generate_markdown_files(csv_path, output_dir)
+    csv_path = "projects-a.csv"
+    generate_markdown_files(csv_path)
 
 
 if __name__ == "__main__":
