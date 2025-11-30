@@ -2,7 +2,7 @@
 date: "2025-11-15"
 tags: ["altair"]
 title: "Financial Inclusion in South Asia"
-authors: ["Sarah Hussin"]
+authors: ["Sarah Hussain"]
 courses: ["30239-A25"]
 ---
 
