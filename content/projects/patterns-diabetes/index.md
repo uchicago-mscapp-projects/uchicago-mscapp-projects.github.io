@@ -7,7 +7,7 @@ courses: ["30239-A25"]
 ---
 
 <a class="main link" href="https://raw.github.com/shumaila9467/diabetes-viz/main/static-viz/final.pdf">
-<img src="feature.png" />
+<img src="feature.jpg" />
 </a>
 
 <div class="pdf-download rounded-md px-1 py-[1px] dark:border-primary-600">
