@@ -2,7 +2,7 @@
 date: "2025-12-15"
 tags: ["interactive"]
 title: "Understanding Global Drug Consumption Patterns"
-authors: ["Maria Jose Reyes"]
+authors: ["María José Reyes"]
 courses: ["30239-A25"]
 ---
 

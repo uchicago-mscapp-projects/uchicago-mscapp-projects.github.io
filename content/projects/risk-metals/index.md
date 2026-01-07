@@ -2,7 +2,7 @@
 date: "2025-11-15"
 tags: ["altair"]
 title: "Geopolitical Risk & Metals"
-authors: ["Maria Jose Reyes"]
+authors: ["María José Reyes"]
 courses: ["30239-A25"]
 ---
 
