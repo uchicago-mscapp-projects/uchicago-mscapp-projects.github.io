@@ -2,7 +2,7 @@
 date: "2025-03-11"
 tags: []
 title: "Wealth Spread: Intelligent Portfolio Diversification Tool"
-authors: ['Shumaila Abbasi', 'Khushi Desai', 'Marie Farhat', 'Raabiyal Ishaq']
+authors: ['Shumaila Abbasi', 'Khushi Desai', 'Marie Farhat', 'Raabiyaal Ishaq']
 courses: ["30122-W25"]
 ---
 
