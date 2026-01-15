@@ -2,7 +2,7 @@
 date: "2025-11-15"
 tags: ["altair"]
 title: "Location matters for unlocking people's potential"
-authors: ["Angela López Sanchez"]
+authors: ["Angela Lopez Sanchez"]
 courses: ["30239-A25"]
 ---
 

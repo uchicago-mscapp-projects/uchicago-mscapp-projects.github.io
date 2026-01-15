@@ -2,7 +2,7 @@
 date: "2025-12-15"
 tags: ["interactive"]
 title: "Panama Life Cycle Activity Explorer"
-authors: ["Angela Lopez"]
+authors: ["Angela Lopez Sanchez"]
 courses: ["30239-A25"]
 ---
 
