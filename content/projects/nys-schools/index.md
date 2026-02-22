@@ -8,5 +8,7 @@ courses: ["30239-A25"]
 
 <img src="feature.png" />
 
+{{< pdf src="nys-schools.pdf" >}}
+
 {{< github repo="a-harriott/uchicago-capp30239-static/tree/main" >}}
 
