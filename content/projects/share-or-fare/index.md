@@ -10,5 +10,7 @@ courses: ["30122-W26"]
 
 This project explores Chicago rideshare data and public transit alternatives to rideshare rides. We aim to explore when, where, and why Chicagoans choose rideshare instead of public transportation. We also aim to identify common rideshare trips that do not have a reasonable public transportation alternative, which can inform future transit planning and creation of new CTA routes.
 
+{< youtube J_djvWmZGAU >}
+
 {{< github repo="uchicago-2026-capp30122/project-share-or-fare" >}}
 

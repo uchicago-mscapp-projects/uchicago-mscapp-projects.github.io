@@ -12,5 +12,7 @@ Title: BreakingBureau
 Subtitle: Immigration News, Labor Market & Stock Market Analysis.
 Description: A data analysis project examining the relationship between immigration-related news coverage and U.S. economic indicators.
 
+{< youtube XDAHhHMK5C4 >}
+
 {{< github repo="uchicago-2026-capp30122/project-breaking_bureau" >}}
 

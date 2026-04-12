@@ -8,6 +8,8 @@ courses: ["30122-W26"]
 
 <img src="feature.png" />
 
+<https://drive.google.com/file/d/1hsBn_nMEz3CIiCyIwVzffFynoKf4ftwV/view>
+
 The objective of this project is to analyze U.S. presidential campaign speeches and examine how closely they align with public opinion
 
 {{< github repo="uchicago-2026-capp30122/project-sentimeter" >}}

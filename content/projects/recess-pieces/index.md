@@ -14,5 +14,7 @@ Recess Pieces explores how shifts in everyday consumer behaviors may signal upco
 
 By comparing these unconventional indicators to established metrics, this project aims to provide some clarity on whether these theories are viable across recessions that have taken place in the 21st century, and if so, how consumer trends have shifted during each recession.
 
+{< youtube https://drive.google.com/file/d/1WmiO-Eaj5IW1gQnXSDNTA7saiVdxKSyV/view?usp=drive_link >}
+
 {{< github repo="uchicago-2026-capp30122/project-recess-pieces" >}}
 

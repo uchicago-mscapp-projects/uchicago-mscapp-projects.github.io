@@ -41,6 +41,8 @@ courses: ["30122-W26"]
 
 {row['description']}
 
+{{< youtube {row['video']} >}}
+
 {{{{< github repo="{row.get('url').replace('https://github.com/', '')}" >}}}}
 
 """
