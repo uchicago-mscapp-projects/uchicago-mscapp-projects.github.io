@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "Bus vs. Rideshare"
 authors: ['Luis Santos Burgoa Suchomlinow', 'Seiya Matsumoto', 'Jocelyn Sanchez Mendoza']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

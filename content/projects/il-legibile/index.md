@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "IL-legible"
 authors: ['Eliana Nowlis', 'Max Manalang', 'Brock Sauvage', 'Luke Friedman']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

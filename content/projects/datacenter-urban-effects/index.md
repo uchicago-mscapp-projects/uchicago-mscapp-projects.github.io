@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "Data Centers Next Door"
 authors: ['Logan Burton', 'Carlos Eduardo Vargas', 'Rodrigo Chaves', 'Sinan Grehan']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

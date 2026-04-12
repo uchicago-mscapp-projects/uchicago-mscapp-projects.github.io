@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "BreakingBureau"
 authors: ['Alexandra Marcos Quispe', 'Lilian Castillo Gomez', 'Maria Hernandez Velastegui', 'Vanezza Gonzalez Smith']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

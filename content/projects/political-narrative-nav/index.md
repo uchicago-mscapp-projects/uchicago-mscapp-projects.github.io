@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "Political Narrative Navigator"
 authors: ['Anees Amjad', 'Ryotaro Imazu', 'Karen Liao']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

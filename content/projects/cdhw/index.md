@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "Chicago Transportation Need and Mobility Patterns"
 authors: ['David Houghton', 'Hannah Barton', 'Wendy Wang', "Ciara Staveley-O'Carroll"]
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

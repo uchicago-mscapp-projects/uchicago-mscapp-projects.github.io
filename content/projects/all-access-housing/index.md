@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "All Access Livable Housing"
 authors: ['Amanda Song', 'Amy Lin', 'Haeji Ahn', 'Lily Hoffman']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />

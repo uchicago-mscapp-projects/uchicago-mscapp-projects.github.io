@@ -3,7 +3,7 @@ date: "2026-03-01"
 tags: []
 title: "Civic Pulse"
 authors: ['Aashni Jain', 'Lily Rudin', 'Marcy Castro Livano', 'Kaylen Chase']
-courses: ["30239-A25"]
+courses: ["30122-W26"]
 ---
 
 <img src="feature.png" />
