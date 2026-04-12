@@ -30,16 +30,18 @@ def generate_markdown_files(csv_path):
 
             # Prepare the Markdown content
             markdown_content = f"""---
-date: "2025-11-15"
-tags: ["altair"]
-title: "{row['title']}"
-authors: ["{row['author']}"]
+date: "2026-03-01"
+tags: []
+title: "{row['name']}"
+authors: {row['authors'].split('\n')}
 courses: ["30239-A25"]
 ---
 
 <img src="feature.png" />
 
-{{{{< github repo="{row.get('github').replace('https://github.com/', '')}" >}}}}
+{row['description']}
+
+{{{{< github repo="{row.get('url').replace('https://github.com/', '')}" >}}}}
 
 """
 
@@ -52,7 +54,7 @@ courses: ["30239-A25"]
 
 
 def main():
-    csv_path = "proj-a.csv"
+    csv_path = "newproj.csv"
     generate_markdown_files(csv_path)
 
 

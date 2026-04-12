@@ -1,0 +1,71 @@
+slug,authors,name,url,video,description,image
+a-little-bit,"luyao Wang
+Sik Han Wong
+Kaiyue Yang
+Donglong Tang",a-little-bit,https://github.com/uchicago-2026-capp30122/project-a-little-bit,s2sCJFSbX5M,"This project examines how education, income, and demographic factors are associated with crime patterns across Chicago neighborhoods.",
+breaking-bureau,"Alexandra Marcos Quispe
+Lilian Castillo Gomez
+Maria Hernandez Velastegui
+Vanezza Gonzalez Smith",BreakingBureau,https://github.com/uchicago-2026-capp30122/project-breaking_bureau,XDAHhHMK5C4,"Title: BreakingBureau
+Subtitle: Immigration News, Labor Market & Stock Market Analysis.
+Description: A data analysis project examining the relationship between immigration-related news coverage and U.S. economic indicators.",https://drive.google.com/open?id=12XWnARMf2Ctcld3yULLsaDvW5J8ZeXaR
+accountable-justice,"Daniela Avayu
+Maria Munoz
+Jimena Gomez",Accountable Justice Lab,https://github.com/uchicago-2026-capp30122/project-accountable-justice-lab,Dxhgxxyba-0,"Accountable justice lab (Ojo Piojo) is an initiative that promotes transparency and accessibility of data related to the Mexican Supreme Court (SCJN). We found that judicial information is often not standardized or analyzed at scale, leaving important questions about how the court and its members operate. Our goal is to empower Mexican citizens with tools to better observe and monitor public institutions. Ojo Piojo is our contribution to that effort.",https://drive.google.com/open?id=1dfuzvJGHcxpBovLzM3pmmo6-3cWOJX4y
+all-access-housing,"Amanda Song
+Amy Lin
+Haeji Ahn
+Lily Hoffman",All Access Livable Housing,https://github.com/uchicago-2026-capp30122/project-all-access-livable-housing,https://drive.google.com/file/d/1T6SVS_VbMjVPbhwko3zUDULbmq6zvg9c/view?usp=sharing,"Several cities in the United States are experiencing a homelessness crisis, with San Francisco often cited due to its high housing prices and limited housing supply. Our project examines tract-level homelessness and housing indicators in San Francisco from 2020 to 2024. We aligned multiple datasets onto the same spatial-temporal scale, aggregating and interpolating point-level data (quarterly encampment counts, daily 311 calls, and daily eviction reports) to census tracts by month. We also disaggregated monthly ZIP code-level median rent data to census tracts by weighting with HUD crosswalks and normalizing with ACS baseline values.
+
+Using multipliers from the literature applied to encampment counts, we generated tract-level estimates of the street homeless population. These estimates and metrics were integrated into an interactive dashboard featuring: (1) a choropleth map showing metrics by tract and month; (2) line graphs of street homelessness and the distribution of tents, structures, and vehicles for a selected census tract; (3) a line graph of monthly median rent that updates by ZIP code; and (4) a regression analysis linking 311 calls to tract-level characteristics.
+
+Overall, our dashboard highlights spatial and temporal patterns in homelessness and housing, helping policymakers and community organizations better target interventions, allocate resources, and make informed housing policy decisions.",https://drive.google.com/open?id=1yBDqaBFVbfI9mkvP4GDmls-Vg-vbZtqU
+cdhw,"David Houghton
+Hannah Barton
+Wendy Wang
+Ciara Staveley-O'Carroll",Chicago Transportation Need and Mobility Patterns,https://github.com/uchicago-2026-capp30122/project-cdhw,EO2vdreIc48,"Project Name: Chicago Transportation Need and Mobility Patterns
+
+This project examines mobility patterns in Chicago for 2024, exploring how public transit usage, rideshare activity, and neighborhood-level characteristics vary across the city.",https://drive.google.com/open?id=1odjk--vmB7UtC5xZPcxtAh65vfHSUa1j
+chi-ed,"Apollinaire Abi
+Faizan Imran
+Mehwish Waheed",,https://github.com/uchicago-2026-capp30122/project-chi-ed,MkAEJoTCRMA,"Name: Chi_ed 
+Chi-Ed is an interactive dashboard and automated reporting tool that analyzes public high school outcomes and infrastructure across Chicago. The platform allows users to explore neighborhood-level disparities in key metrics and also enables direct comparisons between public schools. To goal is to facilitate an analysis of education gaps and to help students and families make informed high school choices.",
+civic-pulse-26,"Aashni Jain
+Lily Rudin
+Marcy Castro Livano
+Kaylen Chase",Civic Pulse,https://github.com/uchicago-2026-capp30122/project-civicpulse,lx7YycQWmUw,"Project Civic Pulse: 
+Chicago Budget data was cleaned and aggregated by department, then joined to 311 call volume using City Department as the shared key — with 311 calls aggregated annually and by department to support this join. Chicago Annual Census data was linked to 311 calls using zip code, enabling analysis of call volume and complaint types relative to neighborhood demographics.",
+data-4-decisions,"Ahmed Lodhi
+Azatbek Nurbekov
+Gabriela Medrano Torres
+Muhammad Ijlal Khan",MortgageMatch,https://github.com/uchicago-2026-capp30122/project-data-4-decisions,2Lru3lukzRI,"MortgageMatch is an interactive Illinois mortgage dashboard built from public data. It combines HMDA application records, Census county indicators, and HMDA lender data to show patterns in mortgage approvals and denials across borrowers, locations, and lenders. The project downloads and cleans the data, standardizes county and lender IDs, creates analysis variables like approval outcome, income bands, and loan amount bands, and merges everything into one dataset. Users can explore the results with filters such as age and income range, and view approval and denial patterns by county, lender, income band, loan purpose, and loan amount.",https://drive.google.com/open?id=1EMPyhBYD-znfF3W_L5DGi9PNwaBS7VKZ
+datacenter-urban-effects,"Logan Burton
+Carlos Eduardo Vargas
+Rodrigo Chaves
+Sinan Grehan",Data Centers Next Door,https://github.com/uchicago-2026-capp30122/project-datacenter-urban-effects,G9JRZpSuwp8?si=s9gaYl8GI3dFLgns,"Data Centers Next Door analyzes how the development of data centers may affect housing conditions in the Chicagoland area. The project combines datasets on data center locations, housing prices, and housing cost indicators to examine changes before and after facilities receive operating permits. Using a reproducible data pipeline and interactive visualizations, the analysis explores whether communities near data centers experience shifts in housing prices or affordability.",https://drive.google.com/open?id=1wazQjJCc52V2QKuDjM6EdRNKd_4OMzEn
+il-legibile,"Eliana Nowlis
+Max Manalang
+Brock Sauvage
+Luke Friedman",IL-legible,https://github.com/uchicago-2026-capp30122/project-il-legible,D9FsiMfuetY,"Name: Project IL-legible
+
+Description: While legislative data is publicly available, it can often be difficult to interpret and inaccessible without technical expertise. Project IL-Legible attempts to make the legislative data of the Illinois General Assembly easier to understand while exploring the relationship between bill sponsorship and campaign contributions received by Illinois legislators. By combining legislation data with campaign finance records, this project provides visualizations and summary metrics that show how bill sponsors differ in their legislative activity and the demographics of their campaign donations. Project IL-Legible allows users to interact with several aspects of legislative activity in Illinois, including which legislators sponsor the most bills, differences in legislative effectiveness across sponsors, campaign donation statistics across sponsors, and how often bills successfully move through the legislative process.",
+project-ljs,"Luis Santos Burgoa Suchomlinow
+Seiya Matsumoto
+Jocelyn Sanchez Mendoza",Bus vs. Rideshare,https://github.com/uchicago-2026-capp30122/project-ljs,https://drive.google.com/file/d/1ikeWle0SJ1wfsB1ja4a-vO9gqnyAOB9A/view,"Bus vs. Rideshare: What's the Best Way for the UChicago Community to Get Downtown?
+
+This project provides practical insights into the factors shaping transportation choices among the University of Chicago community traveling between Hyde Park and Downtown Chicago. We compare the two primary CTA bus routes serving this corridor (routes 2 and 6) with rideshare options (Uber and Lyft), focusing on travel time and cost.",https://drive.google.com/open?id=1bWFUhPEmNE2lb1nF-mwVdmdQRiMQHpU2
+political-narrative-nav,"Anees Amjad
+Ryotaro Imazu
+Karen Liao",Political Narrative Navigator,https://github.com/uchicago-2026-capp30122/project-sentimeter,https://drive.google.com/file/d/1hsBn_nMEz3CIiCyIwVzffFynoKf4ftwV/view,The objective of this project is to analyze U.S. presidential campaign speeches and examine how closely they align with public opinion,https://drive.google.com/open?id=1T8MYA7oaKkBq_6xo_KUH-z2K3TqXsown
+recess-pieces,"Ashanti Hatchett
+Manas Subbaraman
+Sarah Zhao
+Cherin Lee",Recess Pieces,https://github.com/uchicago-2026-capp30122/project-recess-pieces,https://drive.google.com/file/d/1WmiO-Eaj5IW1gQnXSDNTA7saiVdxKSyV/view?usp=drive_link,"Recess Pieces: Can We Predict a Recession?
+
+Recess Pieces explores how shifts in everyday consumer behaviors may signal upcoming economic recessions. Economists traditionally rely on indicators such as unemployment rates and consumer credit to track downturns, but there have been theories such as the ""Lipstick Index"" that suggest that the sales of certain everyday commodities (such as makeup products) may see changes leading up to or during a recession. 
+
+By comparing these unconventional indicators to established metrics, this project aims to provide some clarity on whether these theories are viable across recessions that have taken place in the 21st century, and if so, how consumer trends have shifted during each recession.",
+share-or-fare,"Molly Long
+Sabrina Wang
+Sarah Zebar
+Waleed Shahzada",Share or Fare,https://github.com/uchicago-2026-capp30122/project-share-or-fare,J_djvWmZGAU,"This project explores Chicago rideshare data and public transit alternatives to rideshare rides. We aim to explore when, where, and why Chicagoans choose rideshare instead of public transportation. We also aim to identify common rideshare trips that do not have a reasonable public transportation alternative, which can inform future transit planning and creation of new CTA routes.",https://drive.google.com/open?id=1lbFivgoszPpeFa47-6JG1hUYcwQuDOkR
